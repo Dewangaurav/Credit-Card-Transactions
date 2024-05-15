@@ -30,6 +30,9 @@ The dataset contains the following fields:
 6. **expense_type**: Type of expense (e.g., Grocery, Dining, Travel).
 7. **gender**: Gender of the cardholder (e.g., Male, Female).
 
+![Screenshot 2024-05-16 002637](https://github.com/Dewangaurav/Credit_Card_Transactions_Analysis/assets/156521677/10e74469-14cf-4139-83d2-f499419344be)
+
+
 ### Analysis Questions
 
 The analysis covers several questions to understand the data and derive meaningful insights. Here are the main questions addressed in this project:
