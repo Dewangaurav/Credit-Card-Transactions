@@ -5,7 +5,7 @@ This is an SQL analysis project involves exploring a dataset containing credit c
 
 ### Dataset
 
-This SQL analysis project involves exploring a dataset containing credit card transaction details.The dataset includes information such as transaction dates, transaction amounts, card types, cities, expense types, and genders of cardholders.
+The dataset includes information such as transaction dates, transaction amounts, card types, cities, expense types, and genders of cardholders.
 
 [cc.xlsx](https://github.com/Dewangaurav/Credit_Card_Transactions_Analysis/files/15325621/cc.xlsx)
 
